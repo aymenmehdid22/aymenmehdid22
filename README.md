@@ -1,4 +1,4 @@
-## 🌍 Hey there, I'm **Aymen Mehdid** 👋
+## 🌍 Hey, I'm **Aymen Mehdid** 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
@@ -6,11 +6,11 @@
 
 ---
 
-### 🚀 Full-Stack Web Developer | Laravel & React Enthusiast | UI/UX-Focused Creator
+### 🚀 Full-Stack Developer | Laravel & React | UI/UX-Driven Builder
 
-I'm a passionate developer from **Algeria 🇩🇿**, focused on building fast, scalable, and clean applications with modern technologies like **Laravel, React, TailwindCSS, and MySQL**.
+I'm **Aymen**, a developer from **Algeria 🇩🇿**, passionate about building clean, scalable, and user-friendly applications.
 
-I love taking ideas and transforming them into real-world projects with simplicity, clean UI, and great user experience.
+I enjoy turning ideas into polished products using modern tech like **Laravel, React, TailwindCSS, and MySQL**, while focusing on clean architecture and great user experience.
 
 ---
 
@@ -18,24 +18,24 @@ I love taking ideas and transforming them into real-world projects with simplici
   <img src="https://komarev.com/ghpvc/?username=aymen-mehdid&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
-📌 Joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then I’ve:
+📌 Joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then:
 
 - 🛠 **{{ COMMITS }}+ commits**
 - 🐛 **{{ ISSUES }}+ issues**
 - 🚀 **{{ PULL_REQUESTS }}+ pull requests**
-- 📦 **{{ REPOSITORIES_CONTRIBUTED_TO }}+ contributions**
+- 📦 **{{ REPOSITORIES_CONTRIBUTED_TO }}+ repositories contributed**
 
 ---
 
 ### 🧠 Currently Working On
 
-- 🚀 A full-stack **Job Portal Platform** (Laravel + React)
-- 🧬 Learning **TypeScript, Next.js, and clean architecture**
-- 🤖 Exploring AI tools & automation for web development
+- 🏗 A full-stack **Job Portal Platform** (Laravel + React + MySQL)
+- 📚 Learning **TypeScript, Next.js, clean architecture**
+- 🤖 Exploring **AI automation & modern workflows**
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack
 
 #### **Languages**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
@@ -52,7 +52,7 @@ I love taking ideas and transforming them into real-world projects with simplici
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 
-#### **Tools**
+#### **Tools & Platforms**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
@@ -60,7 +60,7 @@ I love taking ideas and transforming them into real-world projects with simplici
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Highlights
 
 <details>
 <summary><b>📊 Stats & Languages</b></summary><br/>
@@ -79,31 +79,31 @@ I love taking ideas and transforming them into real-world projects with simplici
 
 ---
 
-### 💬 Ask Me About
+### 💬 Topics I Like to Discuss
 
 - Laravel + React workflows  
-- UI/UX for web apps  
-- Deployment, project structure & best practices  
-- How to get started with full-stack development  
+- UI/UX decisions  
+- Deployment (shared hosting, VPS, CI/CD)  
+- Project structure & best practices  
 
 ---
 
-### 🎯 Philosophy
+### 🎯 Personal Philosophy
 
-> _"What would life be if we had no courage to attempt anything ?"_  
+> _"Always be learning. The future belongs to those who build."_  
 
 ---
 
-### 📩 Connect With Me
+### 📩 Contact
 
-📧 Email: **mehdidaymen345@gmail.com**
+📧 **mehdidaymen345@gmail.com**
 
-⭐ If you like my work, consider starring my repos!
+⭐ If my repositories inspire you, feel free to star or fork!
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for stopping by — keep building great things.
+### 🚀 Thanks for stopping by — keep building and improving.
 
 </div>
